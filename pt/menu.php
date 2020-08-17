@@ -1,9 +1,9 @@
 <?php return array (
   'menu' => 'Menu',
   'extras' => 'Extras',
-  'internals' => 'Internals',
-  'master' => 'Master',
-  'primary' => 'Primary',
+  'internals' => 'Internoss',
+  'master' => 'Mestre',
+  'primary' => 'Primário',
   'setup' => 'Setup',
-  'utilities' => 'Utilities',
+  'utilities' => 'Utilidades',
 );
