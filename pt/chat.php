@@ -3,15 +3,15 @@ return array(
     'live_chat' => 'Live Chat',
     'chat' => 'Chat',
     'chats' => 'Chats',
-    'chat_room' => 'Chat Room',
-    'message' => 'Message',
-    'messages' => 'Messages',
+    'chat_room' => 'Sala de Chat',
+    'message' => 'Mensagem',
+    'messages' => 'Menssagens',
     'props' => array(
-        'body' => 'Body'
+        'body' => 'Corpo'
     ),
-    'type_a_message' => 'Type a message...',
-    'no_messages_yet' => 'No messages yet!',
-    'no_chats_yet' => 'No chats yet!',
-    'no_more_messages' => 'No more messages!',
-    'no_result_found' => 'No result found!',
+    'type_a_message' => 'Digite uma mensagem...',
+    'no_messages_yet' => 'Ainda não há mensagens!',
+    'no_chats_yet' => 'Ainda não há bate-papos!',
+    'no_more_messages' => 'Sem mais mensagens!',
+    'no_result_found' => 'Nenhum resultado encontrado!',
 );
