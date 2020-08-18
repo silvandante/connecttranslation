@@ -38,6 +38,6 @@
         'security' => 'Alguns dispositivos necessários ilegíveis!',
         'security_text' => 'Este aplicativo precisa desses dispositivos em boas condições para funcionar!',
         'missing' => 'Dispositivos ausentes!',
-        'missing_text' => 'Os seguintes dispositivos / dispositivos necessários estão faltando: atributo',
+        'missing_text' => 'Os seguintes dispositivos / dispositivos necessários estão faltando:attribute',
     ),
 );

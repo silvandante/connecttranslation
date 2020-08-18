@@ -82,7 +82,7 @@ return array(
         'cancelled' => 'cancelado',
         'ended' => 'programado',
     ),
-    'invalid_action_with_status' => 'Reunião é: atributo, esta não é uma ação válida.',
+    'invalid_action_with_status' => 'Reunião é:attribute, esta não é uma ação válida.',
     'meeting_details' => 'Detalhes da reunião',
     'member_online' => 'membro está online!',
     'members_online' => 'membros estão online!',
