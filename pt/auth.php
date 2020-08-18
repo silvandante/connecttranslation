@@ -11,7 +11,7 @@
     ),
     'invalid_code' => 'Código de dois fatores inválido!',
     'locking_screen' => 'Tela de Bloqueio!',
-    'will_lock_in' => 'A tela será bloqueada' :attribute!',
+    'will_lock_in' => 'A tela será bloqueada :attribute!',
   ),
   'login' =>
   array (
@@ -32,7 +32,7 @@
     'back_to_login' => 'Voltar para o Login',
     'login_using_mobile_otp' => 'Login usando senha temporária enviado por telefone',
     'login_using_email_otp' => 'Login usando senha senha temporária enviada por Email',
-    'login_using_email' => 'Login usando Email / Nome de Usuário,
+    'login_using_email' => 'Login usando Email / Nome de Usuário',
     'login_using_email_password' => 'Login using Email e Senha',
     'login_using_password' => 'Login usando Senha',
     'or_login_with' => 'Logar com',
