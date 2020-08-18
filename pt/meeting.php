@@ -37,7 +37,7 @@ return array(
     'delay' => 'Delay',
     'start_recording' => 'Comece a gravar',
     'stop_recording' => 'Pare de gravar',
-    'start_a_meeting' => 'Começar um meeting',
+    'start_a_meeting' => 'Começar uma reunião',
     'join_a_meeting' => 'Participe de uma reunião',
     'joining_a_meeting' => 'Entrando em uma reunião',
     'enter_meeting_code' => 'Digite o código da reunião',
