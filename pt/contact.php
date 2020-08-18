@@ -1,30 +1,30 @@
 <?php
 return array(
-    'contact' => 'Contact',
-    'contacts' => 'Contacts',
+    'contact' => 'Contato',
+    'contacts' => 'Contatos',
     'props' => array(
-        'name' => 'Name',
+        'name' => 'Nome',
         'email' => 'Email',
-        'segment' => 'Segment'
+        'segment' => 'Segmento'
     ),
     'import' => array(
-        'csv_file_supported' => 'Only CSV files are supported.',
-        'max_limit' => 'Max limit for import is :number.',
-        'missing_column' => 'There are missing columns.',
-        'column_contains_duplicate_field' => 'There are duplicate columns.',
-        'invalid_column_found' => 'Invalid columns found.',
-        'could_not_find_file' => 'Could not found import file.',
-        'existing_contact' => 'Contact :attribute already exists.',
-        'duplicate_record' => 'Duplicate contacts found in file.',
+        'csv_file_supported' => 'Apenas arquivos CSV são suportados.',
+        'max_limit' => 'O limite máximo para importação é :number.',
+        'missing_column' => 'Estão faltando colunas.',
+        'column_contains_duplicate_field' => 'Existem colunas duplicadas.',
+        'invalid_column_found' => 'Colunas inválidas encontradas.',
+        'could_not_find_file' => 'Arquivo de importação não encontrado.',
+        'existing_contact' => 'Contato: o atributo já existe.',
+        'duplicate_record' => 'Contatos duplicados encontrados no arquivo.',
     ),
     'segment' => array(
-        'segment' => 'Segment',
-        'segments' => 'Segments',
+        'segment' => 'Segmento',
+        'segments' => 'Segmentos',
         'props' => array(
-            'name' => 'Name',
-            'description' => 'Description',
+            'name' => 'Nome',
+            'description' => 'Descrição',
         ),
-        'module_description' => 'Add new segment to group your contacts to add them to meetings quickly.',
+        'module_description' => 'Adicione um novo segmento para agrupar seus contatos e adicioná-los a reuniões rapidamente.',
     ),
-    'module_description' => 'Add new contact to invite to your meetings.',
+    'module_description' => 'Adicione um novo contato para convidar para suas reuniões.',
 );
