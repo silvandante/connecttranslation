@@ -1,12 +1,12 @@
 <?php return array (
-    'option' => 'Option',
-    'options' => 'Options',
+    'option' => 'Opção',
+    'options' => 'Opções',
     'props' =>
     array (
-      'name' => 'Name',
+      'name' => 'Nome',
       'slug' => 'Slug',
-      'type' => 'Type',
-      'parent' => 'Parent',
-      'description' => 'Description',
+      'type' => 'Tipo',
+      'parent' => 'Pais',
+      'description' => 'Descrição',
     ),
 );
