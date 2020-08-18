@@ -114,9 +114,9 @@ return array(
     'share_screen' => 'Compartilhar tela',
     'raise_hand' => 'Levante sua mão!',
     'lower_hand' => 'Abaixe sua mão!',
-    'handup_notification' => ':atributo mão levantada!',
+    'handup_notification' => ':attribute mão levantada!',
     'duplicate_tab' => 'Você já tem uma guia aberta para uma página do Live Meeting!',
     'stop_sharing_screen' => 'Parar de compartilhar a tela',
-    'user_inviting_msg' => ':atributo está convidando você para uma reunião!',
+    'user_inviting_msg' => ':attribute está convidando você para uma reunião!',
     'url_has_been_copied' => 'O URL da reunião foi copiado!',
 );
