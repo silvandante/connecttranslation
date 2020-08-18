@@ -21,7 +21,7 @@
       'date' => 'Data',
       'time' => 'Tempo',
       'description' => 'Descrrição',
-      'title' => 'Tiítulo,
+      'title' => 'Tiítulo',
       'status' => 'Status',
     ),
     'completed_at' => 'Concluído em',
